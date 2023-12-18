@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Drone = (props) => {
+const Vehiculo = (props) => {
   const { name, model, price, imageUrl } = props;
 
   return (
@@ -14,4 +14,4 @@ const Drone = (props) => {
   );
 };
 
-export default Drone;
+export default Vehiculo;
