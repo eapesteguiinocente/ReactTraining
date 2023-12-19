@@ -27,6 +27,22 @@ const listaVehiculos = [
     name: 'Bicicleta',
     model: 'Terrestre',
   },
+  {
+    name: 'Avioneta',
+    model: 'Aéreo',
+  },
+  {
+    name: 'Crucero',
+    model: 'Marítimo',
+  },
+  {
+    name: 'Tren',
+    model: 'Terrestre',
+  },
+  {
+    name: 'Helicoptero',
+    model: 'Aéreo',
+  },
 ];
 
 function App() {
